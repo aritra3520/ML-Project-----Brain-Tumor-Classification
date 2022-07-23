@@ -19,7 +19,7 @@ compare the accuracies & consider the best suited model for this purpose.
 [Positionwise Classification](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 
 # Preprocessing :
-Refer to [preprocessing](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
+Refer to [preprocessing](https://github.com/aritra3520/ML-Project-----Brain-Tumor-Classification/blob/main/Preprocessing.py)
 
 # Model Training:
 ### 1.Classification on Presence
@@ -30,7 +30,7 @@ Here we implemented three types of models:
 • VGG-16
 • ResNet50
 
-For Results refer to : [Classification Based on its Presence](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
+For Results refer to : [Classification Based on its Presence](https://github.com/aritra3520/ML-Project-----Brain-Tumor-Classification/blob/main/Classification%20Based%20on%20its%20Presence.ipynb)
 
 ### 2.Classification on Position
 • Vanilla CNN model from scratch where the data used is :
@@ -43,14 +43,17 @@ Here we implemented three types of models:
 For Results refer to : 
 
 
-[Brain Tumor Classification Using CNN ((Based on Position))](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection) for Vanilla CNN Model 
+[Brain Tumor Classification Using CNN ((Based on Position))](https://github.com/aritra3520/ML-Project-----Brain-Tumor-Classification/blob/main/Brain%20Tumor%20Classification%20Using%20CNN%20((Based%20on%20Position)).ipynb) for Vanilla CNN Model 
 
-[Brain_Tumor_Classification_Resnet (Based on Position)](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection) for Resnet
+[Brain_Tumor_Classification_Resnet (Based on Position)](https://github.com/aritra3520/ML-Project-----Brain-Tumor-Classification/blob/main/Brain_Tumor_Classification_Resnet%20(Based%20on%20Position).ipynb) for Resnet
 
 
-[BrainTumour_Classification_EfficientnetB0 (Based on Position)](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection) for Efficient_Net
+[BrainTumour_Classification_EfficientnetB0 (Based on Position)](https://github.com/aritra3520/ML-Project-----Brain-Tumor-Classification/blob/main/BrainTumour_Classification_EfficientnetB0%20(Based%20on%20Position).ipynb) for Efficient_Net
 
 # Results
+
+For final results refer to :
+[ML_project_report_final](https://github.com/aritra3520/ML-Project-----Brain-Tumor-Classification/blob/main/ML_project_report%20_final.pdf)
 
 
 
